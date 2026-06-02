@@ -1,5 +1,10 @@
 # SwiftUtilityKit
 
+[![CI](https://github.com/Chrois27/SwiftUtilityKit/actions/workflows/ci.yml/badge.svg)](https://github.com/Chrois27/SwiftUtilityKit/actions/workflows/ci.yml)
+![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)
+![Platforms](https://img.shields.io/badge/Platforms-iOS%2013+%20%7C%20macOS%2011+-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A small, dependency-free collection of production-tested iOS/macOS utilities,
 extracted and generalized from real apps. Pure-Swift components are cross-platform
 and unit-tested; UIKit/WebKit pieces are compiled in only where available
